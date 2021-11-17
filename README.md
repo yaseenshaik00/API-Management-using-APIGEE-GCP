@@ -8,7 +8,7 @@
     <img src="images/logo.svg" alt="Logo" width="180" height="180">
   </a>
 
-  <div style="text-align: right"><h3 align="center">API Management using APIGEE & GCP</h3></div>
+  <div style="text-align: right"><h3 align="center">API Management using APIGEE and Google Cloud Platform (GCP)</h3></div>
 
 </div>
 
