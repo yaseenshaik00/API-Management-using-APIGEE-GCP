@@ -1,0 +1,12 @@
+{
+  "name": "spikey-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js --use_strict"
+  },
+
+  "dependencies": {
+    "express": "^4.16.0"
+  }
+}
