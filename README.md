@@ -141,7 +141,7 @@ The tools that have been used in the project are mentioned below:
 ## Contact
 <br/>
 
-> ### <center> __*Yaseen Shaik*__ </center>
+> ### <div style="text-align: right"> __*Yaseen Shaik*__ </div>
 >
 > - Email ID  - yaseenshaik00@gmail.com
 > - Linkedin  - [www.linkedin.com/in/yaseenshaik00](www.linkedin.com/in/yaseenshaik00)
