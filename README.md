@@ -82,7 +82,7 @@ The tools that have been used in the project are mentioned below:
 - __Apigee Edge__ : The API management platform built by Apigee, which allows developers to build and manage API proxies.
 - __API Proxy__ : A program that sits in front of your API and proxy incoming user requests to the API and provides various value-added features.
 
- <br>  <img src="images/Architecture.png"> <br> 
+ <br>  <p align="center"><img src="images/Architecture.png"></p> <br> 
 
 
 ### Prerequisites
